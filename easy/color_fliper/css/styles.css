@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(58, 153, 86);
+
+}
+
+
+#color_swapper{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#color_swapper:hover{
+    opacity: 80%;
+}
